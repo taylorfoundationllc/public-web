@@ -1,0 +1,12 @@
+.banner {
+  background-image: url('../images/bg1.jpg');
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;
+}
+.grass {
+  background-image: url('../images/grass.png');
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;
+}
